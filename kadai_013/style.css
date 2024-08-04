@@ -79,12 +79,12 @@ PC用のスタイル
   }
   /* ハンバーガーメニュー */
   #menu-sp{
- /* display: block; */
- /* background-color: transparent; */
+    /* display: block; */
+    /* background-color: transparent; */
     float: right;
     padding: 0;
     /* 周りの線を消す */
-    border: none;
+    /* border: none; */
   }
   /* スマホ用ナビゲーション */
   #nav-sp{
@@ -108,9 +108,9 @@ PC用のスタイル
     position: absolute;
     top: 20px;
     right: 20px;
-    background-color: transparent;
+    /* background-color: transparent; */
     /* 周りの線を消す */
-    border: none;
+    /* border: none; */
   }
   /* ナビゲーションメニュー用ロゴ */
   #logo-sp{
