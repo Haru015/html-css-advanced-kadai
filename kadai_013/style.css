@@ -79,8 +79,8 @@ PC用のスタイル
   }
   /* ハンバーガーメニュー */
   #menu-sp{
-    display: block;
-    background-color: transparent;
+ /* display: block; */
+ /* background-color: transparent; */
     float: right;
     padding: 0;
     /* 周りの線を消す */
